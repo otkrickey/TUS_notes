@@ -81,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "af81183ea1693789",
@@ -160,7 +159,7 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "6ecb37bfb4ae10db",
+  "active": "7dbd43fb2bea969d",
   "lastOpenFiles": [
     "電子物理学/report2.md",
     "電子物理学"
