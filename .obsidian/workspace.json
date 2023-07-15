@@ -60,18 +60,6 @@
               "type": "bookmarks",
               "state": {}
             }
-          },
-          {
-            "id": "146f264902a8f0b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "電子物理学/report2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -153,8 +141,12 @@
   },
   "active": "7dbd43fb2bea969d",
   "lastOpenFiles": [
-    "電子物理学/report2.md",
     "電子物理学/words.md",
+    "電子物理学/test/words.md",
+    "電子物理学/test",
+    "電子物理学/report2.md",
+    "電子物理学/report/report2.md",
+    "電子物理学/report",
     "電子物理学"
   ]
 }
