@@ -75,6 +75,25 @@
     翌日、ムースが川から水を飲むためにやって来たとき、ハエは彼の足をかんだのですが、ハエはムースの体中をかみ続けました。ムースはハエを追い払おうとして、周りを回って走り回りましたが、ハエはあまりにも小さくて速かったため、ムースからは逃げられませんでした。最終的に、ムースはあきらめて川から遠く離れて逃げました。他の動物たちは驚きと喜びでいっぱいでした。彼らはハエにその勇気に感謝しました。ハエは彼らに、小さなものでも賢ければ大きくて強力なものに勝つことができると覚えておくようにと言いました。
 
 ### Comprehension Questions
-a. How was the most able to learn about the river according to the story?
-b. which of the following animals would have been most affected by The Disappearance of the water?
-c. 
+a.Multiple choice questions
+1. How was the most able to learn about the river according to the story?
+    a) because it was the only river nearby
+    b) because of its poputation
+    c) because he was thirsty at the time
+    d) because he was lucky and found it by chance
+2. Which of the following animals would have been most affected by The Disappearance of the water?
+    a) bear
+    b) beaver
+    c) fish
+    d) muskrat
+3. How was the fly able to defeat?
+    a) by irritating him with his buzzing sound
+    b) by driving him into the river
+    c) by making him run around in circles
+    d) by biting him repeatedly
+> [!success]- Answers
+> 1. 
+> 2. 
+> 3. 
+
+b.Short answer questions
