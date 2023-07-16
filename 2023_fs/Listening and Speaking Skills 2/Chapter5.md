@@ -44,3 +44,22 @@
 - countless
     無数の
 
+### Vocabulary Practice
+1.Allowed words: <span style="color: #87CEEB;"> 'position', 'debtors' prison', 'sibiling', 'an agent for the court', 'room and board', 'boot blacking', 'inheritance' </span>
+    1. He had three ------: two sisters and one brother.
+    2. Steve spent his ------ on a new house in country.
+    3. Her parents helped to pay for her ------ when she want off to college.
+    4. In 1869, England stopped sending people to ------.
+    5. She was promoted to a higher ------ due to her excellent record at work.
+    6. He had worked for many years as ------.
+    7. ------ was used to make shoes appear new again.
+[!success]- Answers
+> 1. sibilings
+> 2. inheritance
+> 3. room and board
+> 4. debtors' prison
+> 5. position
+> 6. an agent for the court
+> 7. boot blacking
+
+2.Allowed words: <span style="color: #87CEEB;"> '
