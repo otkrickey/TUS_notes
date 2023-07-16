@@ -1,6 +1,7 @@
 {
   "accentColor": "#39b3fe",
   "textFontFamily": "Times New Roman,游明朝",
-  "interfaceFontFamily": "",
-  "theme": "moonstone"
+  "interfaceFontFamily": "BIZ UDPゴシック",
+  "theme": "moonstone",
+  "monospaceFontFamily": ""
 }
