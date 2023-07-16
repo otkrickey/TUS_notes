@@ -1,37 +1,37 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "Listening and Speaking Skills 2",
+      "query": "path:\"2023_fs/Listening and Speaking Skills 2\"",
       "color": {
         "a": 1,
-        "rgb": 14701221
+        "rgb": 14701242
       }
     },
     {
-      "query": "",
+      "query": "path:2023_fs/電子物理学",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 14356239
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.496539792387543,
+  "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1,
+  "scale": 0.9999999999999992,
   "close": false
 }
