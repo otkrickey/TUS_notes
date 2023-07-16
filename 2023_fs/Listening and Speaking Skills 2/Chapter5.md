@@ -53,7 +53,7 @@
     5. She was promoted to a higher ------ due to her excellent record at work.
     6. He had worked for many years as ------.
     7. ------ was used to make shoes appear new again.
-[!success]- Answers
+>[!success]- Answers
 > 1. sibilings
 > 2. inheritance
 > 3. room and board
@@ -62,4 +62,42 @@
 > 6. an agent for the court
 > 7. boot blacking
 
-2.Allowed words: <span style="color: #87CEEB;"> '
+2.Allowed words: <span style="color: #87CEEB;"> 'income', 'distrust', 'installment', 'serial novel', 'protagonist', 'work ethic', 'social reforms' </span>
+    8. Her strong ------ helped her eventually become the president of the company.
+    9. The ------ of the novel was a young man trying to average his father's death.
+    10. ------ are not easy to achieve, but they often improve society.
+    11. The readers waited eagerly for the next ------ of the serial novel.
+    12. He had a natural ------ of people who offerd him something for free.
+    13. She needed to increase her ------ if she hoped to be able to buy a house.
+    14. The ------ was published in monthly installments over the course of two years.
+>[!success]- Answers
+> 8. work ethic
+> 9. protagonist
+> 10. social reforms
+> 11. installment
+> 12. distrust
+> 13. income
+> 14. serial novel
+
+3.Allowed words: <span style="color: #87CEEB;"> 'living beyond his means', 'relocated', 'passed away', 'campaign for x' </span>
+    15. After her father found a new job, her family ------ to Tokyo.
+    16. By ------ he accumulated a massive amount of debt.
+    17. He decided to ------ the right of minorities.
+    18. She was only 5 years old when her mother ------.
+>[!success]- Answers
+> 15. relocated
+> 16. living beyond his means
+> 17. campaign for x
+> 18. passed away
+
+4.Allowed words: <span style="color: #87CEEB;"> 'exhausting', 'bleak', 'Victorian', 'countless' </span>
+    19. Running a marathon is an ------ experience.
+    20. The ------ era ran from approximately 1840 to 1900.
+    21. She complained about the noise ------ times,but nothing was done.
+    22. The future looked ------ for the businessman after he lost his job.
+>[!success]- Answers
+> 19. exhausting
+> 20. Victorian
+> 21. countless
+> 22. bleak
+
