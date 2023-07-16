@@ -101,3 +101,7 @@
 > 21. countless
 > 22. bleak
 
+### Listening to the Lecture
+[Unique Selections 英語なるほどリスニング講義](https://shohakusha.com/streaming#anchorlink-list-menu)
+- 原文
+    
