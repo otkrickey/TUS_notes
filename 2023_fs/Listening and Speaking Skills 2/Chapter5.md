@@ -35,4 +35,12 @@
     ヴィクトリア朝の
 - protagonist
     主人公
-- 
+- work ethic
+    労働倫理
+- campaign for x
+    xのための運動をする
+- social reform
+    社会改革
+- countless
+    無数の
+
