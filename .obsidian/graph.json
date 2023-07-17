@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "path:2023_fs/電子物理学",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -8,17 +8,10 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"2023_fs/Listening and Speaking Skills 2\"",
+      "query": "file:電子物理学",
       "color": {
         "a": 1,
-        "rgb": 14701242
-      }
-    },
-    {
-      "query": "path:2023_fs/電子物理学",
-      "color": {
-        "a": 1,
-        "rgb": 14356239
+        "rgb": 14048348
       }
     }
   ],
