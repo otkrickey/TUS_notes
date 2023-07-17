@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "62d8192ccc5a1a18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023_fs/電子物理学/words/test_words.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0c55c859adc27066",
             "type": "leaf",
             "state": {
@@ -41,6 +29,14 @@
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "62d8192ccc5a1a18",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -173,13 +169,14 @@
   },
   "active": "48d1ce300c63fd5b",
   "lastOpenFiles": [
+    "2023_fs/電子物理学/words/3.ドナーとアクセプタ.md",
+    "2023_fs/電子物理学/words/2.キャリア伝導.md",
+    "2023_fs/電子物理学/words/test_words.md",
+    "2023_fs/電子物理学/report/report2.md",
     "2023_fs/電子物理学/images/バンドギャップ.png.crdownload",
     "2023_fs/電子物理学/images/バンドギャップ.png",
     "2023_fs/電子物理学/images/p型半導体.png",
     "2023_fs/電子物理学/images/n型半導体.png",
-    "2023_fs/電子物理学/words/test_words.md",
-    "2023_fs/電子物理学/report/report2.md",
-    "2023_fs/電子物理学/words/2.キャリア伝導.md",
     "2023_fs/電子物理学/images/真性半導体.png",
     "2023_fs/電子物理学/images/真性半導体.png.crdownload",
     "2023_fs/電子物理学/images/fermi-dirac distribution function.png",
