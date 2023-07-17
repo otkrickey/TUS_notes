@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c9c5cc8308709fc4",
+        "id": "e120060aba753b21",
         "type": "tabs",
         "children": [
           {
-            "id": "c13b1abc9ff4c970",
+            "id": "62d8192ccc5a1a18",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#電子物理学",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -140,8 +139,11 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "319bf3baf0a78f6d",
+  "active": "62d8192ccc5a1a18",
   "lastOpenFiles": [
+    "無題のファイル.md",
+    "2023_fs/Listening and Speaking Skills 2/Listening and Speaking Skills 2 summary.md",
+    "2023_fs/Listening and Speaking Skills 2/Listening and Speaking Skills 2",
     "2023_fs/電子物理学/test/test_words.md",
     "2023_fs/電子物理学/report/report2.md",
     "2023_fs/Listening and Speaking Skills 2/Chapter9.md",
