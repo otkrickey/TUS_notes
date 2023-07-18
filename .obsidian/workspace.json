@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023_fs/電子物理学/words/7.逆格子.md",
+                "file": "2023_fs/電子物理学/words/4.キャリアのいろいろ.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023_fs/電子物理学/words/7.逆格子.md",
+                "file": "2023_fs/電子物理学/words/4.キャリアのいろいろ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023_fs/電子物理学/words/7.逆格子.md",
+                "file": "2023_fs/電子物理学/words/4.キャリアのいろいろ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023_fs/電子物理学/words/7.逆格子.md"
+                "file": "2023_fs/電子物理学/words/4.キャリアのいろいろ.md"
               }
             }
           }
@@ -147,14 +147,15 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "00d288731d78c6d3",
+  "active": "e2d5652e4c9f8b7c",
   "lastOpenFiles": [
+    "2023_fs/電子物理学/words/2.キャリア伝導.md",
+    "2023_fs/電子物理学/words/3.ドナーとアクセプタ.md",
+    "2023_fs/電子物理学/words/4.キャリアのいろいろ.md",
     "2023_fs/電子物理学/words/6.結晶.md",
+    "2023_fs/電子物理学/words/test_words.md",
     "2023_fs/電子物理学/words/7.逆格子.md",
     "2023_fs/電子物理学/words/5.キャリアの温度特性.md",
-    "2023_fs/電子物理学/words/4.キャリアのいろいろ.md",
-    "2023_fs/電子物理学/words/3.ドナーとアクセプタ.md",
-    "2023_fs/電子物理学/words/2.キャリア伝導.md",
     "2023_fs/電子物理学/images/sp3混成軌道.jpg",
     "2023_fs/電子物理学/images/sp3混成軌道.jpg.crdownload",
     "2023_fs/電子物理学/images/フント則.png",
@@ -171,7 +172,6 @@
     "2023_fs/電子物理学/images/未結合手.jpg.crdownload",
     "2023_fs/電子物理学/images/高温でのキャリア密度.png",
     "2023_fs/電子物理学/images/中温でのキャリア密度.png.crdownload",
-    "2023_fs/電子物理学/words/test_words.md",
     "2023_fs/電子物理学/images/キャリアの温度特性.gif.crdownload",
     "2023_fs/電子物理学/images/アクセプタ準位png.png.crdownload",
     "2023_fs/電子物理学/images/ドナー準位.png.crdownload",
