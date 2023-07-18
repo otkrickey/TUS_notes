@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023_fs/電子物理学/words/2.キャリア伝導.md",
+                "file": "2023_fs/電子物理学/words/6.結晶.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023_fs/電子物理学/words/2.キャリア伝導.md",
+                "file": "2023_fs/電子物理学/words/6.結晶.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023_fs/電子物理学/words/2.キャリア伝導.md",
+                "file": "2023_fs/電子物理学/words/6.結晶.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023_fs/電子物理学/words/2.キャリア伝導.md"
+                "file": "2023_fs/電子物理学/words/6.結晶.md"
               }
             }
           }
@@ -174,32 +174,32 @@
   },
   "active": "cbcd64207ffd21cd",
   "lastOpenFiles": [
+    "2023_fs/電子物理学/words/5.キャリアの温度特性.md",
     "2023_fs/電子物理学/words/6.結晶.md",
+    "2023_fs/電子物理学/images/sp3混成軌道.jpg",
+    "2023_fs/電子物理学/images/sp3混成軌道.jpg.crdownload",
+    "2023_fs/電子物理学/images/フント則.png",
+    "2023_fs/電子物理学/images/フント則.png.crdownload",
+    "2023_fs/電子物理学/words/2.キャリア伝導.md",
     "2023_fs/電子物理学/images/原子軌道_1.jpg",
     "2023_fs/電子物理学/images/原子軌道_2.jpg",
     "2023_fs/電子物理学/images/gennsikidou .jpg",
     "2023_fs/電子物理学/images/gennsikidou .jpg.crdownload",
     "2023_fs/電子物理学/images/原子軌道.jpg.crdownload",
-    "2023_fs/電子物理学/words/5.キャリアの温度特性.md",
     "2023_fs/電子物理学/images/原子軌道.jpg",
     "2023_fs/電子物理学/images/原子軌道.png",
-    "2023_fs/電子物理学/words/2.キャリア伝導.md",
     "2023_fs/電子物理学/images/未結合手.png",
     "2023_fs/電子物理学/images/未結合手.jpg",
     "2023_fs/電子物理学/images/未結合手.jpg.crdownload",
     "2023_fs/電子物理学/words/4.キャリアのいろいろ.md",
     "2023_fs/電子物理学/words/3.ドナーとアクセプタ.md",
     "2023_fs/電子物理学/images/高温でのキャリア密度.png",
-    "2023_fs/電子物理学/images/低温でのキャリア密度.png",
-    "2023_fs/電子物理学/images/中温でのキャリア密度.png",
     "2023_fs/電子物理学/images/中温でのキャリア密度.png.crdownload",
     "2023_fs/電子物理学/words/test_words.md",
     "2023_fs/電子物理学/images/キャリアの温度特性.gif.crdownload",
     "2023_fs/電子物理学/images/アクセプタ準位png.png.crdownload",
     "2023_fs/電子物理学/images/ドナー準位.png.crdownload",
     "2023_fs/電子物理学/images/キャリアのイメージ.jpg.~tmp",
-    "2023_fs/電子物理学/images/キャリアのイメージ.jpg.crdownload",
-    "2023_fs/電子物理学/images/アクセプタ準位.png.crdownload",
     "2023_fs/電子物理学/report/report2.md",
     "2.1.1キャリア密度.md",
     "2023_fs/電子物理学/test/2.キャリア伝導.md",
