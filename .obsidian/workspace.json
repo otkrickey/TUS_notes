@@ -20,24 +20,12 @@
             }
           },
           {
-            "id": "f474f34e14fac39f",
+            "id": "fe067dec96158a2d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023_fs/電子物理学/words/3.ドナーとアクセプタ.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1b0fd4a766eddc64",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023_fs/電子物理学/words/2.キャリア伝導.md",
+                "file": "2023_fs/電子物理学/words/5.キャリアの温度特性.md",
                 "mode": "source",
                 "source": false
               }
@@ -51,7 +39,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023_fs/電子物理学/words/4.キャリアのいろいろ.md",
+                "file": "2023_fs/電子物理学/words/5.キャリアの温度特性.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023_fs/電子物理学/words/4.キャリアのいろいろ.md",
+                "file": "2023_fs/電子物理学/words/5.キャリアの温度特性.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023_fs/電子物理学/words/4.キャリアのいろいろ.md"
+                "file": "2023_fs/電子物理学/words/5.キャリアの温度特性.md"
               }
             }
           }
@@ -179,15 +168,18 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "00d288731d78c6d3",
+  "active": "fe067dec96158a2d",
   "lastOpenFiles": [
+    "2023_fs/電子物理学/images/キャリアの温度特性.gif",
+    "2023_fs/電子物理学/images/キャリアの温度特性.gif.crdownload",
+    "2023_fs/電子物理学/words/5.キャリアの温度特性.md",
+    "2023_fs/電子物理学/words/3.ドナーとアクセプタ.md",
+    "2023_fs/電子物理学/words/2.キャリア伝導.md",
+    "2023_fs/電子物理学/words/4.キャリアのいろいろ.md",
     "2023_fs/電子物理学/images/アクセプタ準位.png",
     "2023_fs/電子物理学/images/アクセプタ準位png.png",
     "2023_fs/電子物理学/images/アクセプタ準位png.png.crdownload",
     "2023_fs/電子物理学/images/ドナー準位.png.crdownload",
-    "2023_fs/電子物理学/words/2.キャリア伝導.md",
-    "2023_fs/電子物理学/words/3.ドナーとアクセプタ.md",
-    "2023_fs/電子物理学/words/4.キャリアのいろいろ.md",
     "2023_fs/電子物理学/images/キャリアのイメージ.jpg.~tmp",
     "2023_fs/電子物理学/images/キャリアのイメージ.jpg",
     "2023_fs/電子物理学/images/キャリアのイメージ.jpg.crdownload",
@@ -207,7 +199,6 @@
     "2023_fs/電子物理学/test/2.キャリア伝導.md",
     "2023_fs/電子物理学/words",
     "2023_fs/電子物理学/test/test_words.md",
-    "2023_fs/電子物理学/test/2.キャリア伝導",
     "2023_fs/Listening and Speaking Skills 2/Chapter9.md",
     "2023_fs/Listening and Speaking Skills 2/Chapter4.md",
     "無題のファイル.md",
