@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e2d5652e4c9f8b7c",
+            "id": "90da0aecd25cd135",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,19 +20,14 @@
             }
           },
           {
-            "id": "90da0aecd25cd135",
+            "id": "3ea00d3ef67998f8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023_fs/電子物理学/words/6.結晶.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -162,6 +157,7 @@
   },
   "active": "90da0aecd25cd135",
   "lastOpenFiles": [
+    "2023_fs/電子物理学/words/6.結晶.md",
     "2023_fs/電子物理学/images/ミラー指数_4.png",
     "2023_fs/電子物理学/images/ミラー指数_4.png.crdownload",
     "2023_fs/電子物理学/images/ミラー指数_3.png",
@@ -171,7 +167,6 @@
     "2023_fs/電子物理学/images/ミラー指数_1.png",
     "2023_fs/電子物理学/images/ミラー指数_1.png.crdownload",
     "2023_fs/電子物理学/words/4.キャリアのいろいろ.md",
-    "2023_fs/電子物理学/words/6.結晶.md",
     "2023_fs/電子物理学/images/ウルツ鉱構造.jpg",
     "2023_fs/電子物理学/images/14-08-0452-01.jpg",
     "2023_fs/電子物理学/images/14-08-0452-01.jpg.crdownload",
@@ -182,7 +177,6 @@
     "2023_fs/電子物理学/images/六方最密構造.png.crdownload",
     "2023_fs/電子物理学/images/せん亜鉛鉱構造_1.jpg",
     "2023_fs/電子物理学/images/せん亜鉛鉱構造_1.jpg.crdownload",
-    "2023_fs/電子物理学/images/ダイヤモンド構造_3.png",
     "2023_fs/電子物理学/images/ダイヤモンド構造_3.png.crdownload",
     "2023_fs/電子物理学/words/7.逆格子.md",
     "2023_fs/電子物理学/words/test_words.md",
