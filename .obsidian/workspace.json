@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023_fs/電子物理学/words/4.キャリアのいろいろ.md",
+                "file": "2023_fs/電子物理学/words/3.ドナーとアクセプタ.md",
                 "mode": "source",
                 "source": false
               }
@@ -39,8 +39,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2023_fs/電子物理学/words/3.ドナーとアクセプタ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2023_fs/電子物理学/words/3.ドナーとアクセプタ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2023_fs/電子物理学/words/3.ドナーとアクセプタ.md"
+              }
             }
           }
         ],
@@ -164,11 +167,11 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "00d288731d78c6d3",
+  "active": "4d11b059323d41f3",
   "lastOpenFiles": [
+    "2023_fs/電子物理学/words/2.キャリア伝導.md",
     "2023_fs/電子物理学/words/4.キャリアのいろいろ.md",
     "2023_fs/電子物理学/words/3.ドナーとアクセプタ.md",
-    "2023_fs/電子物理学/words/2.キャリア伝導.md",
     "2023_fs/電子物理学/report/report2.md",
     "2.1.1キャリア密度.md",
     "2023_fs/電子物理学/words/test_words.md",
