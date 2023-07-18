@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023_fs/電子物理学/words/6.結晶.md",
+                "file": "2023_fs/電子物理学/words/2.キャリア伝導.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023_fs/電子物理学/words/6.結晶.md",
+                "file": "2023_fs/電子物理学/words/2.キャリア伝導.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023_fs/電子物理学/words/6.結晶.md",
+                "file": "2023_fs/電子物理学/words/2.キャリア伝導.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023_fs/電子物理学/words/6.結晶.md"
+                "file": "2023_fs/電子物理学/words/2.キャリア伝導.md"
               }
             }
           }
@@ -174,8 +174,14 @@
   },
   "active": "cbcd64207ffd21cd",
   "lastOpenFiles": [
-    "2023_fs/電子物理学/words/5.キャリアの温度特性.md",
     "2023_fs/電子物理学/words/6.結晶.md",
+    "2023_fs/電子物理学/images/原子軌道_1.jpg",
+    "2023_fs/電子物理学/images/原子軌道_2.jpg",
+    "2023_fs/電子物理学/images/gennsikidou .jpg",
+    "2023_fs/電子物理学/images/gennsikidou .jpg.crdownload",
+    "2023_fs/電子物理学/images/原子軌道.jpg.crdownload",
+    "2023_fs/電子物理学/words/5.キャリアの温度特性.md",
+    "2023_fs/電子物理学/images/原子軌道.jpg",
     "2023_fs/電子物理学/images/原子軌道.png",
     "2023_fs/電子物理学/words/2.キャリア伝導.md",
     "2023_fs/電子物理学/images/未結合手.png",
@@ -188,11 +194,7 @@
     "2023_fs/電子物理学/images/中温でのキャリア密度.png",
     "2023_fs/電子物理学/images/中温でのキャリア密度.png.crdownload",
     "2023_fs/電子物理学/words/test_words.md",
-    "2023_fs/電子物理学/images/キャリアの温度特性.png",
-    "2023_fs/電子物理学/images/スクリーンショット 2023-07-18 112314.png",
-    "2023_fs/電子物理学/images/キャリアの温度特性.gif",
     "2023_fs/電子物理学/images/キャリアの温度特性.gif.crdownload",
-    "2023_fs/電子物理学/images/アクセプタ準位.png",
     "2023_fs/電子物理学/images/アクセプタ準位png.png.crdownload",
     "2023_fs/電子物理学/images/ドナー準位.png.crdownload",
     "2023_fs/電子物理学/images/キャリアのイメージ.jpg.~tmp",
@@ -200,8 +202,6 @@
     "2023_fs/電子物理学/images/アクセプタ準位.png.crdownload",
     "2023_fs/電子物理学/report/report2.md",
     "2.1.1キャリア密度.md",
-    "2023_fs/電子物理学/images/バンドギャップ.png.crdownload",
-    "2023_fs/電子物理学/images/真性半導体.png.crdownload",
     "2023_fs/電子物理学/test/2.キャリア伝導.md",
     "2023_fs/電子物理学/test/test_words.md",
     "2023_fs/Listening and Speaking Skills 2/Chapter9.md",
