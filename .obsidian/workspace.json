@@ -4,16 +4,52 @@
     "type": "split",
     "children": [
       {
-        "id": "31a1ead33a4ffc4e",
+        "id": "46ceff4336d7d6c7",
         "type": "tabs",
         "children": [
           {
-            "id": "e16e63d168aa88d5",
+            "id": "932742cef968f271",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023_fs/電子物理学/words/6.結晶.md",
+                "file": "2023_fs/電子物理学/words/2.キャリア伝導.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f46d001e14e6fefe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023_fs/電子物理学/words/5.キャリアの温度特性.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cbcd64207ffd21cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023_fs/電子物理学/words/test_words.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8730fabfa995da25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023_fs/電子物理学/words/test_words.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023_fs/電子物理学/words/6.結晶.md",
+                "file": "2023_fs/電子物理学/words/test_words.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023_fs/電子物理学/words/6.結晶.md",
+                "file": "2023_fs/電子物理学/words/test_words.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023_fs/電子物理学/words/6.結晶.md"
+                "file": "2023_fs/電子物理学/words/test_words.md"
               }
             }
           }
@@ -148,37 +184,40 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "e16e63d168aa88d5",
+  "active": "8730fabfa995da25",
   "lastOpenFiles": [
+    "2023_fs/電気磁気測定1/2.国際単位.md",
+    "2023_fs/電子物理学/電子物理学まとめ.md",
+    "2023_fs/電気磁気測定1/1.測定の基礎.md",
+    "2023_fs/電気磁気測定1",
+    "2023_fs/電子物理学/images/ミラー指数_4.png",
+    "2023_fs/電子物理学/images/ミラー指数_3.png",
+    "2023_fs/電子物理学/images/ミラー指数_2.png",
+    "2023_fs/電子物理学/images/ミラー指数_1.png",
+    "2023_fs/電子物理学/images/ブリルアンゾーン.png",
+    "2023_fs/電子物理学/images/ブラッグ回折.jpg",
+    "2023_fs/電子物理学/images/ウルツ鉱構造.jpg",
+    "2023_fs/電子物理学/images/ウィグナー・サイツ・セル.png",
+    "2023_fs/電子物理学/words/test_words.md",
+    "1..md",
     "2023_fs/電子物理学/words/7.逆格子.md",
+    "2023_fs/電子物理学/words/6.結晶.md",
     "2023_fs/電子物理学/words/5.キャリアの温度特性.md",
     "2023_fs/電子物理学/words/4.キャリアのいろいろ.md",
     "2023_fs/電子物理学/words/3.ドナーとアクセプタ.md",
     "2023_fs/電子物理学/words/2.キャリア伝導.md",
-    "2023_fs/電子物理学/words/9,pn接合.md",
-    "2023_fs/電子物理学/images/ブラッグ回折.jpg",
-    "2023_fs/電子物理学/images/ブラッグ回折.jpg.crdownload",
-    "2023_fs/電子物理学/images/ブリルアンゾーン.png",
-    "2023_fs/電子物理学/report/report2.md",
-    "2023_fs/電子物理学/images/ウィグナー・サイツ・セル.png",
-    "2023_fs/電子物理学/images/ウィグナー・サイツ・セル.png.crdownload",
-    "2023_fs/電子物理学/images/ミラー指数_4.png",
-    "2023_fs/電子物理学/images/ミラー指数_4.png.crdownload",
-    "2023_fs/電子物理学/images/ミラー指数_3.png",
-    "2023_fs/電子物理学/images/ミラー指数_3.png.crdownload",
-    "2023_fs/電子物理学/images/ミラー指数_2.png",
-    "2023_fs/電子物理学/images/ミラー指数_2.png.crdownload",
-    "2023_fs/電子物理学/images/ミラー指数_1.png",
-    "2023_fs/電子物理学/images/ミラー指数_1.png.crdownload",
-    "2023_fs/電子物理学/images/ウルツ鉱構造.jpg",
-    "2023_fs/電子物理学/images/14-08-0452-01.jpg",
-    "2023_fs/電子物理学/images/14-08-0452-01.jpg.crdownload",
-    "2023_fs/電子物理学/images/六方最密構造_2.png",
-    "2023_fs/電子物理学/images/六方最密構造_2.png.crdownload",
-    "2023_fs/電子物理学/images/六方最密構造.png.crdownload",
-    "2023_fs/電子物理学/images/せん亜鉛鉱構造_1.jpg.crdownload",
-    "2023_fs/電子物理学/words/test_words.md",
+    "2023_fs/電子物理学/images/フント則.png",
+    "2023_fs/電子物理学/images/バンドギャップ.png",
     "README.md",
+    "2023_fs/電子物理学/images/未結合手.jpg.crdownload",
+    "2023_fs/電子物理学/images/中温でのキャリア密度.png.crdownload",
+    "2023_fs/電子物理学/images/キャリアの温度特性.gif.crdownload",
+    "2023_fs/電子物理学/images/アクセプタ準位png.png.crdownload",
+    "2023_fs/電子物理学/images/ドナー準位.png.crdownload",
+    "2023_fs/電子物理学/images/キャリアのイメージ.jpg.~tmp",
+    "2023_fs/電子物理学/images/キャリアのイメージ.jpg.crdownload",
+    "2023_fs/電子物理学/images/アクセプタ準位.png.crdownload",
+    "2023_fs/電子物理学/report/report2.md",
     "2.1.1キャリア密度.md",
     "2023_fs/電子物理学/images/バンドギャップ.png.crdownload",
     "2023_fs/電子物理学/test/2.キャリア伝導.md",
@@ -192,7 +231,6 @@
     "2023_fs/Listening and Speaking Skills 2/Chapter3.md",
     "2023_fs/電子物理学/test/words.md",
     "電子物理学/test/words.md",
-    "電子物理学/words.md",
-    "電子物理学/report2.md"
+    "電子物理学/words.md"
   ]
 }
