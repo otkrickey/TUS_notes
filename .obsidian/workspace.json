@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0b79477f04daf3ff",
+        "id": "d1be32459479a606",
         "type": "tabs",
         "children": [
           {
-            "id": "b0ecc822c35e3727",
+            "id": "331bda302eb25173",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023_fs/電子物理学/words/2.キャリア伝導.md",
+                "file": "2023_fs/電子物理学/words/6.結晶.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023_fs/電子物理学/words/2.キャリア伝導.md",
+                "file": "2023_fs/電子物理学/words/6.結晶.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023_fs/電子物理学/words/2.キャリア伝導.md",
+                "file": "2023_fs/電子物理学/words/6.結晶.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023_fs/電子物理学/words/2.キャリア伝導.md"
+                "file": "2023_fs/電子物理学/words/6.結晶.md"
               }
             }
           }
@@ -149,8 +148,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b0ecc822c35e3727",
+  "active": "00d288731d78c6d3",
   "lastOpenFiles": [
+    "2023_fs/電子物理学/words/7.逆格子.md",
+    "2023_fs/電子物理学/words/6.結晶.md",
+    "2023_fs/電子物理学/words/5.キャリアの温度特性.md",
+    "2023_fs/電子物理学/words/4.キャリアのいろいろ.md",
+    "2023_fs/電子物理学/words/3.ドナーとアクセプタ.md",
+    "2023_fs/電子物理学/words/2.キャリア伝導.md",
     "2023_fs/電気磁気測定1/5.指示計器構成要素.md",
     "2023_fs/電気磁気測定1/3.電気単位.md",
     "2023_fs/電気磁気測定1/2.国際単位.md",
@@ -160,12 +165,6 @@
     "2023_fs/電気磁気測定1/3.電気単位",
     "2023_fs/電気磁気測定1/1.測定の基礎.md",
     "README.md",
-    "2023_fs/電子物理学/words/6.結晶.md",
-    "2023_fs/電子物理学/words/2.キャリア伝導.md",
-    "2023_fs/電子物理学/words/7.逆格子.md",
-    "2023_fs/電子物理学/words/5.キャリアの温度特性.md",
-    "2023_fs/電子物理学/words/4.キャリアのいろいろ.md",
-    "2023_fs/電子物理学/words/3.ドナーとアクセプタ.md",
     "2023_fs/電子物理学/words/9,pn接合.md",
     "2023_fs/電子物理学/images/ブラッグ回折.jpg",
     "2023_fs/電子物理学/images/ブラッグ回折.jpg.crdownload",
