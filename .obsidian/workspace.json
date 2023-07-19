@@ -144,11 +144,18 @@
       "canvas:新規キャンバスを作成": false,
       "daily-notes:今日のデイリーノートを開く": false,
       "templates:テンプレートを挿入": false,
-      "command-palette:コマンドパレットを開く": false
+      "command-palette:コマンドパレットを開く": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "00d288731d78c6d3",
+  "active": "b0ecc822c35e3727",
   "lastOpenFiles": [
+    "2023_fs/電気磁気測定1/images/目盛板.png",
+    "2023_fs/電気磁気測定1/images/スクリーンショット 2023-07-19 182505.png",
+    "2023_fs/電気磁気測定1/images",
+    "2023_fs/電気磁気測定1/5.指示計器構成要素.md",
+    "2023_fs/電気磁気測定1/3.電気単位.md",
+    "2023_fs/電気磁気測定1/3.電気単位",
     "2023_fs/電気磁気測定1/1.測定の基礎.md",
     "2023_fs/電気磁気測定1/2.国際単位.md",
     "README.md",
@@ -176,10 +183,7 @@
     "2023_fs/電子物理学/images/ウルツ鉱構造.jpg",
     "2023_fs/電子物理学/images/14-08-0452-01.jpg",
     "2023_fs/電子物理学/images/14-08-0452-01.jpg.crdownload",
-    "2023_fs/電子物理学/images/六方最密構造_2.png",
     "2023_fs/電子物理学/images/六方最密構造_2.png.crdownload",
-    "2023_fs/電子物理学/images/六方最密構造.png.crdownload",
-    "2023_fs/電子物理学/images/せん亜鉛鉱構造_1.jpg.crdownload",
     "2023_fs/電子物理学/words/test_words.md",
     "2.1.1キャリア密度.md",
     "2023_fs/電子物理学/test/2.キャリア伝導.md",
@@ -191,9 +195,6 @@
     "2023_fs/Listening and Speaking Skills 2/Chapter7.md",
     "2023_fs/Listening and Speaking Skills 2/Chapter5.md",
     "2023_fs/Listening and Speaking Skills 2/Chapter11.md",
-    "2023_fs/Listening and Speaking Skills 2/Chapter3.md",
-    "2023_fs/電子物理学/test/words.md",
-    "電子物理学/test/words.md",
-    "電子物理学/words.md"
+    "2023_fs/Listening and Speaking Skills 2/Chapter3.md"
   ]
 }
