@@ -20,6 +20,13 @@
         "a": 1,
         "rgb": 14765268
       }
+    },
+    {
+      "query": "path:2023_fs/電気磁気測定1",
+      "color": {
+        "a": 1,
+        "rgb": 16093490
+      }
     }
   ],
   "collapse-display": true,
@@ -32,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.9354023228551006,
-  "close": true
+  "scale": 0.9747294578941591,
+  "close": false
 }

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023_fs/電気磁気測定1/2.国際単位.md",
+                "file": "2023_fs/電子物理学/words/2.キャリア伝導.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#電気中性条件",
+                "query": "tag:#状態密度",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023_fs/電気磁気測定1/2.国際単位.md",
+                "file": "2023_fs/電子物理学/words/2.キャリア伝導.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023_fs/電気磁気測定1/2.国際単位.md",
+                "file": "2023_fs/電子物理学/words/2.キャリア伝導.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023_fs/電気磁気測定1/2.国際単位.md"
+                "file": "2023_fs/電子物理学/words/2.キャリア伝導.md"
               }
             }
           }
@@ -150,14 +151,14 @@
   },
   "active": "b0ecc822c35e3727",
   "lastOpenFiles": [
+    "2023_fs/電気磁気測定1/5.指示計器構成要素.md",
+    "2023_fs/電気磁気測定1/3.電気単位.md",
+    "2023_fs/電気磁気測定1/2.国際単位.md",
     "2023_fs/電気磁気測定1/images/目盛板.png",
     "2023_fs/電気磁気測定1/images/スクリーンショット 2023-07-19 182505.png",
     "2023_fs/電気磁気測定1/images",
-    "2023_fs/電気磁気測定1/5.指示計器構成要素.md",
-    "2023_fs/電気磁気測定1/3.電気単位.md",
     "2023_fs/電気磁気測定1/3.電気単位",
     "2023_fs/電気磁気測定1/1.測定の基礎.md",
-    "2023_fs/電気磁気測定1/2.国際単位.md",
     "README.md",
     "2023_fs/電子物理学/words/6.結晶.md",
     "2023_fs/電子物理学/words/2.キャリア伝導.md",
@@ -181,7 +182,6 @@
     "2023_fs/電子物理学/images/ミラー指数_1.png",
     "2023_fs/電子物理学/images/ミラー指数_1.png.crdownload",
     "2023_fs/電子物理学/images/ウルツ鉱構造.jpg",
-    "2023_fs/電子物理学/images/14-08-0452-01.jpg",
     "2023_fs/電子物理学/images/14-08-0452-01.jpg.crdownload",
     "2023_fs/電子物理学/images/六方最密構造_2.png.crdownload",
     "2023_fs/電子物理学/words/test_words.md",
