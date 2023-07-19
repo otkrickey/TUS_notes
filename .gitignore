@@ -9,6 +9,7 @@
 .obsidian/plugins/obsidian-git/data.json
 .obsidian/appearance.json
 .obsidian/graph.json
+.obsidian/app.json
 
 # exclude business notes
 4[0-9]_*/
